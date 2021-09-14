@@ -1,7 +1,7 @@
-## Welcome!
+## Connect with me:
 
-### https://sg.linkedin.com/in/awnathan
-### https://twitter.com/nathan_mk_aw 
+[Linkedin](https://sg.linkedin.com/in/awnathan)
+[Twitter](https://twitter.com/nathan_mk_aw )
 
 ### Presentations/Works:
 
