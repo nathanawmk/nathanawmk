@@ -1,6 +1,7 @@
 ## Connect with me:
 
 [Linkedin](https://sg.linkedin.com/in/awnathan)
+
 [Twitter](https://twitter.com/nathan_mk_aw )
 
 ### Presentations/Works:
