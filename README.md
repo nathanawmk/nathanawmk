@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/nathanawmk/nathanawmk/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### https://sg.linkedin.com/in/awnathan
+### https://twitter.com/nathan_mk_aw 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Presentations/Works:
 
-### Markdown
+https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01
 
-```markdown
-Syntax highlighted code block
+https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network
 
-# Header 1
-## Header 2
-### Header 3
+https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf
 
-- Bulleted
-- List
+https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwinds_Supply_Chain_Attack_and_Deterring_it_Honing_in_on_the_Golden_SAML_Attack_Technique.pdf
 
-1. Numbered
-2. List
+https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf
 
-**Bold** and _Italic_ and `Code` text
+https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanawmk/nathanawmk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
