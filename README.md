@@ -46,6 +46,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Developer Showcase Series](https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data)
 
+[Decentralized Identity: The Elusive Key to Inclusive Growth](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
+
 ### Others: 
 
 [IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
