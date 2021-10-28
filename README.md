@@ -69,6 +69,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 https://sg.linkedin.com/in/awnathan
 
+https://nathanawmk.github.io/
+
 https://twitter.com/nathan_mk_aw
 
 https://gitlab.com/nathanawmk
