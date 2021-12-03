@@ -26,6 +26,8 @@
 
 ### Selected Presentations/Works at OWASP Singapore:
 
+[Malware Discovered in Popular NPM: Anatomy of Next-Gen Supply Chain Attacks. Tools and Guidelines to Secure Software Packages, Dependencies (NPM, PyPI, Maven, NuGet, Crates and RubyGems) to Guard against Supply Chain Attacks. How to setup Guardrails and not Roadblocks or Gates: Shift Left with Gitops plus integrating Fuzzing into DevSecOps. The importance of having Cloud Infrastructure Entitlements Management (CIEM) to enforce permissions and security identities across workloads and clouds.](https://owasp.org/www-chapter-singapore/assets/presos/Supply_Chain_Security_Securing_your_NPM,_PyPI,_Maven_and_Crates_(Rust),_Shift_Left_with_Gitops_and_Software_Fuzzing.pdf)
+
 [Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and
 Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf)
 
@@ -51,6 +53,14 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Hyperledger Sawtooth, Seth and Truffle 101](https://www.hyperledger.org/blog/2018/07/24/hyperledger-sawtooth-seth-and-truffle-101)
 
+### Certifications:
+
+[Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/cae19203-4eb1-4ae0-8e99-a1b2b3852eab)
+
+[Microsoft Azure Fundamentals](https://www.credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f)
+
+[Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/1df3e0be-2b1b-4ed4-8df0-9f2488168c99)
+
 ### Others: 
 
 [IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
@@ -65,11 +75,9 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Nathan Aw](http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/)
 
-### SOURCE: 
+### Source: 
 
 https://sg.linkedin.com/in/awnathan
-
-https://nathanawmk.github.io/
 
 https://twitter.com/nathan_mk_aw
 
@@ -118,3 +126,11 @@ https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digita
 http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/
 
 https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop
+
+https://owasp.org/www-chapter-singapore/assets/presos/Supply_Chain_Security_Securing_your_NPM,_PyPI,_Maven_and_Crates_(Rust),_Shift_Left_with_Gitops_and_Software_Fuzzing.pdf
+
+https://www.credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f
+
+https://www.credly.com/badges/1df3e0be-2b1b-4ed4-8df0-9f2488168c99
+
+https://www.credly.com/badges/cae19203-4eb1-4ae0-8e99-a1b2b3852eab
