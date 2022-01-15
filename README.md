@@ -18,11 +18,11 @@
 
 ### Selected Presentations/Works at the Internet Engineering Task Force (IETF):
 
-[Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
+1. [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
 
-[Byzantine Agreement Protocols for Large-Scale Decentralized Identity Management](https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01)
+2. [Byzantine Agreement Protocols for Large-Scale Decentralized Identity Management](https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01)
 
-[Applications for Quantum Information Network: Promising Use Cases and its Profound Implications on Existing Internet Applications](https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network)
+3. [Applications for Quantum Information Network: Promising Use Cases and its Profound Implications on Existing Internet Applications](https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network)
 
 ### Selected Presentations/Works at OWASP Singapore:
 
