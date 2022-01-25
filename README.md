@@ -65,6 +65,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 4. [AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://www.credly.com/badges/d55cd8db-2147-4f22-acd6-f11611fd71d5)
 
+5. [Prisma Certified Cloud Security Engineer](https://www.certmetrics.com/paloaltonetworks/public/badge.aspx?i=37&t=c&d=2022-01-23&ci=PAN00218757)
+
 ### Others: 
 
 1. [IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
