@@ -16,6 +16,8 @@
 
 [About.me](https://about.me/mingkun.aw)
 
+[Infoq](https://www.infoq.com/profile/Nathan-Aw.1/)
+
 ### Selected Presentations/Works at the Internet Engineering Task Force (IETF):
 
 1. [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
@@ -143,12 +145,14 @@ https://www.credly.com/badges/cae19203-4eb1-4ae0-8e99-a1b2b3852eab
 
 https://www.credly.com/badges/d55cd8db-2147-4f22-acd6-f11611fd71d5
 
+https://www.certmetrics.com/paloaltonetworks/public/badge.aspx?i=37&t=c&d=2022-01-23&ci=PAN00218757
+
 https://www.meetup.com/singapore-owasp-meetup-group/events/281710523/
 
 https://www.meetup.com/singapore-owasp-meetup-group/events/280590027/
 
 https://www.meetup.com/singapore-owasp-meetup-group/events/279796090/
 
-https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/
+[](https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/)
 
 
