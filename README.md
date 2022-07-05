@@ -160,3 +160,5 @@ https://www.meetup.com/singapore-owasp-meetup-group/events/279796090/
 https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/
 
 https://news.smu.edu.sg/news/2012/05/21/onward-next-50
+
+https://nathanaw.substack.com/p/behold-the-pointless-modern-man
