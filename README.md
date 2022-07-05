@@ -85,7 +85,7 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 7. [Chosen to attend National Writers Workshop at Philippines and awarded the Fellowship for writing.](https://news.smu.edu.sg/news/2012/05/21/onward-next-50)
 
-8. [Poetry @ Substack - Behold the pointless modern man!] (https://nathanaw.substack.com/p/behold-the-pointless-modern-man)
+8. [Poetry @ Nathan Aw Substack - Behold the pointless modern man!](https://nathanaw.substack.com/p/behold-the-pointless-modern-man)
 
 ### Source/References: 
 
